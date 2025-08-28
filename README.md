@@ -51,7 +51,7 @@ Computadora-Origami/
 │   ├── __pycache__/
 │   ├── __init__.py
 │   ├── test_gadgets.py   # Pruebas para gadgets
-│   └── test_integration.py # Pruebas de integración
+│   └── test_integration.py # Pruebas de half-adder
 ├── main.py               # Punto de entrada principal
 └── README.md            # Este archivo
 ```
@@ -111,7 +111,7 @@ pytest tests/
 # Pruebas de gadgets
 pytest tests/test_gadgets.py
 
-# Pruebas de integración
+# Pruebas del half-adder
 pytest tests/test_integration.py
 ```
 
@@ -120,3 +120,4 @@ pytest tests/test_integration.py
 Santiago Castellanos, Catalina Gutiérrez, Camilo Millan
 
 ---
+
