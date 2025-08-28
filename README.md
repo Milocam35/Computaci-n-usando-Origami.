@@ -67,7 +67,7 @@ Computadora-Origami/
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Milocam35/Computaci-n-usando-Origami.
 cd Computadora-Origami
 ```
 
@@ -120,4 +120,5 @@ pytest tests/test_integration.py
 Santiago Castellanos, Catalina Gutiérrez, Camilo Millan
 
 ---
+
 
